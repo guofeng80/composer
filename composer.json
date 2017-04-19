@@ -1,0 +1,13 @@
+{
+    "name": "guofeng80/somposer",
+    "description": "a test composer project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "国丰",
+            "email": "13366669903@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
